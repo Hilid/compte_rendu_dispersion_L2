@@ -1,0 +1,29 @@
+\select@language {french}
+\contentsline {chapter}{Introduction}{3}
+\contentsline {chapter}{\numberline {1}Approche de la dispersion dans un milieu uniforme}{4}
+\contentsline {section}{\numberline {1.}Dispersion dans un guide d'onde rectangulaire}{4}
+\contentsline {subsection}{\numberline {1.1.}Mise en \IeC {\'e}quation du probl\IeC {\`e}me}{4}
+\contentsline {subsubsection}{Expression de la pression en r\IeC {\'e}gime harmonique}{4}
+\contentsline {subsubsection}{Conditions limites}{5}
+\contentsline {subsection}{\numberline {1.2.}Vitesse de phase}{5}
+\contentsline {subsection}{\numberline {1.3.}Vitesse de groupe}{6}
+\contentsline {section}{\numberline {2.}Vibration d'une poutre en flexion}{7}
+\contentsline {subsection}{\numberline {2.1.}D\IeC {\'e}termination de l'\IeC {\'e}quation de propagation dans la poutre}{7}
+\contentsline {subsection}{\numberline {2.2.}R\IeC {\'e}solution par la m\IeC {\'e}thode de s\IeC {\'e}paration des variables}{9}
+\contentsline {subsection}{\numberline {2.3.}Application des conditions limites}{9}
+\contentsline {subsection}{\numberline {2.4.}V\IeC {\'e}rification exp\IeC {\'e}rimentale de la dispersion}{11}
+\contentsline {chapter}{\numberline {2}\IeC {\'E}tude de la dispersion dans un r\IeC {\'e}seau \IeC {\`a} pas r\IeC {\'e}gulier}{13}
+\contentsline {section}{\numberline {1.}Mod\IeC {\'e}lisation d'une portion de la corde}{13}
+\contentsline {subsection}{\numberline {1.1.}Mise en \IeC {\'e}quation de la corde sans masse}{13}
+\contentsline {subsection}{\numberline {1.2.}Mise sous forme matricielle}{14}
+\contentsline {subsection}{\numberline {1.3.}Ajout d'une masse ponctuelle}{14}
+\contentsline {section}{\numberline {2.}Mod\IeC {\'e}lisation d'un r\IeC {\'e}seau infini}{15}
+\contentsline {section}{\numberline {3.}Diagramme de dispersion}{16}
+\contentsline {section}{\numberline {4.}Imp\IeC {\'e}dance d'entr\IeC {\'e}e}{16}
+\contentsline {section}{\numberline {5.}Partie exp\IeC {\'e}rimentale}{18}
+\contentsline {subsection}{\numberline {5.1.}Protocole exp\IeC {\'e}rimental}{18}
+\contentsline {subsubsection}{Mesure de la tension $T_0$}{18}
+\contentsline {subsection}{\numberline {5.2.}R\IeC {\'e}sultats des mesures}{19}
+\contentsline {subsubsection}{Causes possibles d'erreurs sur les mesures}{19}
+\contentsline {chapter}{Conclusion}{20}
+\contentsline {section}{Bibliographie}{20}

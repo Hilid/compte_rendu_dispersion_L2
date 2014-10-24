@@ -1,0 +1,10 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {french}
+\beamer@sectionintoc {1}{\scshape Dans les milieux continus}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Dispersion dans un guide d'onde}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Dispersion dans une poutre en flexion}{9}{0}{1}
+\beamer@sectionintoc {2}{\scshape Dans un r\IeC {\'e}seau}{18}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mise en \IeC {\'e}quation du probl\IeC {\`e}me}{18}{0}{2}
+\beamer@subsectionintoc {2}{2}{Courbe de dispersion}{24}{0}{2}
+\beamer@subsectionintoc {2}{3}{R\IeC {\'e}sultats exp\IeC {\'e}rimentaux}{27}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{28}{0}{3}

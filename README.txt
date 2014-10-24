@@ -1,0 +1,1 @@
+Ce dépot comporte l'ensemble des documents produits lors de mon projet de Licence2 acoustique sur le phénomène de dispersion des ondes. L'étude ce porte en particulier sur une corde lestée et permet d'identifier des bandes interdites liées a la propagation dans les réseaux de Braggs.

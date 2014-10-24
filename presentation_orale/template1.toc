@@ -1,0 +1,11 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {french}
+\beamer@sectionintoc {1}{\scshape Introduction}{1}{0}{1}
+\beamer@sectionintoc {2}{\scshape Dans un guide d'onde}{3}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mise en \IeC {\'e}quation de la pression}{3}{0}{2}
+\beamer@subsectionintoc {2}{2}{Conditions limites}{4}{0}{2}
+\beamer@subsectionintoc {2}{3}{Vitesse de phase}{5}{0}{2}
+\beamer@subsectionintoc {2}{4}{Vitesse de groupe}{6}{0}{2}
+\beamer@subsectionintoc {2}{5}{frame 1}{7}{0}{2}
+\beamer@sectionintoc {3}{\scshape Dans un r\IeC {\'e}seau}{8}{0}{3}
+\beamer@sectionintoc {4}{\scshape Dans un r\IeC {\'e}seau}{9}{0}{4}
